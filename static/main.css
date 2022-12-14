@@ -1,0 +1,62 @@
+body{
+    font-family:'Georgia';
+    color: #333640;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+header{
+    background: url('https://static.fanpage.it/wp-content/uploads/2020/12/frasi-celebri-auguri-natale.jpg');
+    display: block; 
+    height: 340px;
+}
+h1{
+    /* color: blue; */
+    font-size: 24px;
+    align-items: center;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+
+}
+h4{
+    align-items: center;
+    text-align: justify;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+/* .click {
+    color:blue;
+    border-bottom: 1px dashed blue;
+    } */
+.button{
+    background: #6654D9;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    padding: 16px 32px;
+    margin: 10px auto 0;
+    width: max-content;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.list {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.otvet{
+    margin-top: 20px;
+    font-family:'Georgia';
+    color: #333640;
+}
